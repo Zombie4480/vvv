@@ -1,0 +1,14 @@
+{
+  "twitchChannel": "your_channel_name",
+  "oauthToken": "oauth:your_token_here",
+  "enableMovement": true,
+  "enableJump": true,
+  "enableAttack": true,
+  "enableUse": true,
+  "enableInventory": true,
+  "commandCooldown": 1000,
+  "subscriberOnly": false,
+  "moderatorOnly": false,
+  "votingDuration": 10,
+  "enableVoting": false
+}
